@@ -8,7 +8,7 @@
 
 
 ## Features:
- - You vs an BOT, Try it.
+ - You vs an BOT.
  - No GUI implemented.
  - Just an console terminal to play with.
 
